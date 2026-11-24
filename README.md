@@ -243,11 +243,40 @@ This repository preserves earlier educational work and provides a foundation for
 
 ## About the Author
 
-**KingdomDataScience** — a portfolio of applied work in data science, statistical modeling, machine learning, and computational problem solving.
+### Lucien Meteumba, Ph.D.
 
-This repository documents the development of practical analytical skills through hands-on projects spanning business analytics, healthcare, finance, and computer vision.
+**Senior Data Scientist | AI/ML Practitioner | Computational Engineering Researcher**
 
-[View GitHub profile](https://github.com/KingdomDataScience)
+Lucien Meteumba is a dedicated Senior Data Scientist with a Ph.D. in Computational Engineering, specializing in Numerical Mathematics and Data Science, and over eight years of professional experience designing, developing, and deploying data-driven solutions across healthcare, banking and financial services, defense, government, and commercial enterprises.
+
+His expertise spans statistical modeling, machine learning, deep learning, natural language processing (NLP), artificial intelligence, data engineering, and MLOps. He combines rigorous mathematical foundations with hands-on engineering to solve complex real-world problems and translate analytical findings into actionable insights for technical teams and decision-makers.
+
+He has experience across the full machine learning lifecycle, from data acquisition, exploratory analysis, and feature engineering to model development, experiment tracking, evaluation, deployment, and operationalization. His technical toolkit includes Python, SQL, Palantir Foundry, PyTorch, TensorFlow, scikit-learn, MLflow, and web-based deployment technologies.
+
+#### Professional Areas of Expertise
+
+| Domain | Expertise |
+|---|---|
+| Artificial Intelligence & Machine Learning | Predictive modeling, supervised and unsupervised learning, ensemble methods |
+| Deep Learning & Computer Vision | Neural networks, CNNs, PyTorch, TensorFlow |
+| Natural Language Processing | NLP modeling, text analytics |
+| Statistical & Mathematical Modeling | Regression, statistical inference, differential equations, numerical analysis, dynamical systems |
+| Data Engineering | Data pipelines, SQL, Palantir Foundry, PySpark |
+| MLOps | Experiment tracking, MLflow, model evaluation and deployment |
+| Scientific Research | Computational engineering, healthcare analytics, Alzheimer's disease research |
+
+#### Research Contributions
+
+His doctoral research focused on the intersection of mathematical modeling, machine learning, and Alzheimer's disease. His research contributions include:
+
+- Lead-authoring a study benchmarking XGBoost, Extra Trees, and neural networks using National Alzheimer's Coordinating Center (NACC) data, achieving a reported accuracy of 96.91% in predicting cognitive status.
+- Developing a 24-equation ordinary differential equation (ODE) model to investigate oxidative stress dynamics in Alzheimer's disease.
+- Applying numerical methods, sensitivity analysis, and dynamical systems theory to complex biological processes.
+- Contributing to the scientific community through three peer-reviewed publications.
+
+**Professional Mission:** To leverage mathematics, data science, and artificial intelligence to solve meaningful problems, drive innovation, and develop intelligent, scalable, and impactful solutions.
+
+[View Lucien Meteumba's GitHub profile](https://github.com/KingdomDataScience)
 
 ---
 
